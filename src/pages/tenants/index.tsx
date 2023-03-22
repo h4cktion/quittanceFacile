@@ -2,7 +2,7 @@ import React from 'react';
 
 import Tenant from '@/components/TenantCard';
 
-import { tenants } from '@/__data__/tenants';
+import { tenants } from '@/__data__/data';
 
 function Tenants() {
   return (
